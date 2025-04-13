@@ -63,7 +63,11 @@ Copy
 Edit
 python -m streamlit run Expense.py
 ```
-##📁 Project Structure
+
+---
+
+
+##  📁 Project Structure
 bash
 Copy
 Edit
@@ -72,6 +76,8 @@ Edit
 ├── .venv/                 # Virtual Environment (optional)
 └── README.md              # Project Documentation
 └── requirements.txt       # Requirements files
+
+
 🙌 Author
 Developed by Nande Sagar — a passionate developer building practical apps with Python and Streamlit.
 
