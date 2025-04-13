@@ -1,10 +1,10 @@
-# 💰 Expense Tracker (Streamlit + SQLite)
+# Expense Tracker (Streamlit + SQLite)
 
 This is a simple and user-friendly **Expense Tracker Web App** built using **Python**, **Streamlit**, and **SQLite**. It allows users to register, log in, add daily expenses, and visualize their spending patterns through daily, weekly, and monthly reports with pie charts.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ User Registration & Login
 - ✍️ Add and View Daily Expenses
@@ -17,7 +17,7 @@ This is a simple and user-friendly **Expense Tracker Web App** built using **Pyt
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - [Python 3.x](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
@@ -27,7 +27,7 @@ This is a simple and user-friendly **Expense Tracker Web App** built using **Pyt
 
 ---
 
-## 🔧 Installation & Run
+##  Installation & Run
 
 ### 1. Clone the Repository
 
@@ -63,7 +63,7 @@ Copy
 Edit
 python -m streamlit run Expense.py
 ```
-📁 Project Structure
+##📁 Project Structure
 bash
 Copy
 Edit
